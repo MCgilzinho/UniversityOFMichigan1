@@ -1,4 +1,5 @@
 # UniversityOFMichigan1
-bla vla bla
+Está é a apresentação de scripts em Python3. A intenção é deixar claro sobre alguns trabalhos feitos no curso Data Structures.
 
-# oioioi
+# Acesso 
+É possível realizar o download do script e realizar testes. 
